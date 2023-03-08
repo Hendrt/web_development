@@ -38,9 +38,12 @@ a:hover{
 }
 .my-name{
     font-size: 40px;
+    font-style: italic;
 }
 .introduction{
     margin-left: 300px;
+    font-size: medium;
+    font-style: italic;
 
 }
 .introduction-text{
